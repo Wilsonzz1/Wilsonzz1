@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wilsonzz1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- 👀
+i sell WhatsApp bot
+
+- 📫 How to reach me ...08067146206
 
 <!---
 Wilsonzz1/Wilsonzz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
